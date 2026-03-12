@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Government College of Engineering, Erode",
+  "description": "Official modern landing page for Government College of Engineering, Erode (formerly IRTT). Excellence in Technical Education since 1984.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
